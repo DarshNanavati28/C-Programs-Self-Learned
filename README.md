@@ -32,23 +32,6 @@ Each program follows a simple principle:
 
 I focus on understanding the logic behind a solution rather than relying on memorized code. Programs are tested, modified, and improved as my understanding develops.
 
-## 📂 Repository Structure
-
-```text
-C-Programming/
-│
-├── Basics/
-├── Control-Structures/
-├── Arrays/
-├── Functions/
-├── Pointers/
-├── Structures/
-├── File-Handling/
-├── Searching/
-├── Sorting/
-└── Problem-Solving/
-```
-
 ## 🎯 What This Project Demonstrates
 
 This repository represents more than familiarity with C syntax. It demonstrates my ability to:
